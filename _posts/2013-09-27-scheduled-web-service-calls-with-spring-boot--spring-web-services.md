@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Scheduled Web Service Calls with Spring Boot and Spring Web Services"
-description: "Use Scheduling with Spring in combination with the easy peasy Spring Boot with a scheduiled Web Service Call"
-category: 
+title: Scheduled Web Service Calls with Spring Boot and Spring Web Services
+description: Use Scheduling with Spring in combination with the easy peasy Spring Boot with a scheduiled Web Service Call
+category: null
 tags: []
+published: true
 ---
+
 {% include JB/setup %}
 
 # About
